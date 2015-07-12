@@ -219,6 +219,7 @@ Here's how to create a firewall on your Linode:
         -A FORWARD -j DROP
 
         COMMIT
+        
         ~~~
 
 
